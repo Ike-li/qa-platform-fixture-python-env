@@ -1,11 +1,11 @@
 # QA Platform Fixture: Python Environment Variables
 
-Private fixture repository for QA Platform UI environment-variable verification.
+Public fixture repository for QA Platform UI environment-variable verification.
 
 Suggested UI configuration:
 
 - Git URL: `https://github.com/Ike-li/qa-platform-fixture-python-env.git`
-- Default branch: `main`
+- Default branch: `master`
 - Base image: `python:3.12-alpine`
 - Runner: `pytest`
 - Test paths: `test_env.py`
